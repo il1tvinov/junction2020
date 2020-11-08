@@ -13,8 +13,8 @@ import sqlite3
 from time import gmtime, strftime
 from random import random
 
-email = "rimescald@mail.ru"
-password = "Qxh8SYNqe3nwASr"
+email = ""
+password = ""
 
 hipsters_file = "data/groups/hipster_groups.txt"
 ordinary_file = "data/groups/ordinary_groups.txt"
