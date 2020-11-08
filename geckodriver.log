@@ -1,0 +1,570 @@
+1604760168341	geckodriver	INFO	Listening on 127.0.0.1:51864
+1604760171401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofileFEy2SV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604760173937	Marionette	INFO	Listening on port 51872
+1604760174072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604760183591	Marionette	INFO	Stopped listening on port 51872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604760253941	geckodriver	INFO	Listening on 127.0.0.1:51936
+1604760256998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofileqhL2od"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604760259283	Marionette	INFO	Listening on port 51945
+1604760259661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604761822345	Marionette	INFO	Stopped listening on port 51945
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofilef5SZy0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604760297631	Marionette	INFO	Listening on port 51984
+1604760297839	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1604761822571	Marionette	INFO	Stopped listening on port 51984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile9yocXy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604760760807	Marionette	INFO	Listening on port 52158
+1604760760910	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604761822597	Marionette	INFO	Stopped listening on port 52158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileoefy3V"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604760990808	Marionette	INFO	Listening on port 52299
+1604760990848	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604761822578	Marionette	INFO	Stopped listening on port 52299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile7Ciedf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604761102915	Marionette	INFO	Listening on port 52384
+1604761103226	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[Parent 2004, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1604761822613	Marionette	INFO	Stopped listening on port 52384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604762420182	geckodriver	INFO	Listening on 127.0.0.1:52556
+1604762423254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofile4hPcYh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604762425371	Marionette	INFO	Listening on port 52564
+1604762425421	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604762968794	Marionette	INFO	Stopped listening on port 52564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofileIvMByw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604762820553	Marionette	INFO	Listening on port 52670
+1604762820902	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604762971687	Marionette	INFO	Stopped listening on port 52670
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile1ohfgT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604762947107	Marionette	INFO	Listening on port 52742
+1604762947603	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604762969653	Marionette	INFO	Stopped listening on port 52742
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604763177893	geckodriver	INFO	Listening on 127.0.0.1:52857
+1604763181540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofilelU3WZU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604763183668	Marionette	INFO	Listening on port 52865
+1604763183699	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604765165438	Marionette	INFO	Stopped listening on port 52865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileoSmK2L"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604763322560	Marionette	INFO	Listening on port 52955
+1604763322597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604765167363	Marionette	INFO	Stopped listening on port 52955
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileStDeoH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604763378339	Marionette	INFO	Listening on port 53004
+1604763378694	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604765163181	Marionette	INFO	Stopped listening on port 53004
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile90P1Om"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604764700283	Marionette	INFO	Listening on port 53208
+1604764700510	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604765160800	Marionette	INFO	Stopped listening on port 53208
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604765941044	geckodriver	INFO	Listening on 127.0.0.1:54408
+1604765944084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofileXvBzS8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765947285	Marionette	INFO	Listening on port 54435
+1604765947815	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604765977779	Marionette	INFO	Stopped listening on port 54435
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604765979455	geckodriver	INFO	Listening on 127.0.0.1:54700
+1604765982503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofile525VU4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765985762	Marionette	INFO	Listening on port 54721
+1604765986248	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604766047589	geckodriver	INFO	Listening on 127.0.0.1:55159
+1604766050635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofilefAN6dj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604766054011	Marionette	INFO	Listening on port 55186
+1604766054374	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604766521806	Marionette	INFO	Stopped listening on port 55186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileuG3nWV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604766476305	Marionette	INFO	Listening on port 57816
+1604766476662	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604766520115	Marionette	INFO	Stopped listening on port 57816
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604766573817	geckodriver	INFO	Listening on 127.0.0.1:58472
+1604766576848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofileTBJq6P"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604766580133	Marionette	INFO	Listening on port 58500
+1604766580596	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.execute_@chrome://marionette/content/driver.js:1130:35
+
+1604766591187	Marionette	INFO	Stopped listening on port 58500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604766614160	geckodriver	INFO	Listening on 127.0.0.1:58770
+1604766617206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofilenjDJV4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604766620595	Marionette	INFO	Listening on port 58798
+1604766620948	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604767113594	Marionette	INFO	Stopped listening on port 58798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604767210692	geckodriver	INFO	Listening on 127.0.0.1:62426
+1604767213736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofileo5TSWx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767216980	Marionette	INFO	Listening on port 62453
+1604767217468	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604768186016	Marionette	INFO	Stopped listening on port 62453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileXe1jK2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767431695	Marionette	INFO	Listening on port 63824
+1604767432066	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604768185980	Marionette	INFO	Stopped listening on port 63824
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile1F7Duo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767532007	Marionette	INFO	Listening on port 64451
+1604767532412	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604768186063	Marionette	INFO	Stopped listening on port 64451
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilecWI04F"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767643777	Marionette	INFO	Listening on port 65136
+1604767644231	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1604768185904	Marionette	INFO	Stopped listening on port 65136
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilezMc8VS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767978207	Marionette	INFO	Listening on port 50725
+1604767978597	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1604768193110	geckodriver	INFO	Listening on 127.0.0.1:52036
+1604768196132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofile7t3Kfv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604768199540	Marionette	INFO	Listening on port 52062
+1604768200119	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604773420952	Marionette	INFO	Stopped listening on port 52062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilesQuLW0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604768734090	Marionette	INFO	Listening on port 55093
+1604768734420	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iQJt4/yo/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYliS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RcE7aRqCynkxR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrUEZkc9cXV9Aj.js?_nc_x=nTgQDG58hx9, line 252: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iQJt4/yo/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYliS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RcE7aRqCynkxR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrUEZkc9cXV9Aj.js?_nc_x=nTgQDG58hx9, line 252: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iQJt4/yo/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYliS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RcE7aRqCynkxR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrUEZkc9cXV9Aj.js?_nc_x=nTgQDG58hx9, line 252: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa51e0d000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SkipAccessPointPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSkipToNextRandomAccessPoint(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 73: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa52174800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa52174800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa5e258400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa5e258400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa51e0e400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa51e0e400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2jW4/yy/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYliS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RcE7aRqCynkxR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrUEZkc9cXV9AjFCChYMhfZ4r.js?_nc_x=nTgQDG58hx9, line 252: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa5204ac00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 15160, MediaDecoderStateMachine #1] WARNING: Decoder=1aa5204ac00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i2FC4/yF/l/en_GB/nnqSDsSZH-ID_mweSMu_QvIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSM2b5MLVoKJLWfMHoc3M9ceoJ0uSMguYwRAy2NKqLRthrUyd1EEC0h6beg18Gy8P8fPKKryuXXe9AbzEWQfA_1_XQ0KvNWA9MYz5bH2mbJj8memLyFgNU0vG6NoDpLTZowmiRxOioPTVFL_SfXU3aqY9x6EiLcw6Z4PRAhCcCEnA8QUfeM5Dkf-aBjDpSmXstufhmuhsZ7U0Bx_bszZu9xLizAimDAo6cGDGZBgM6dH3c6Xpz-ldZplmTaqGHw3G6T6o3bBk6n.js?_nc_x=nTgQDG58hx9, line 211: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i2FC4/yF/l/en_GB/nnqSDsSZH-ID_mweSMu_QvIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSM2b5MLVoKJLWfMHoc3M9ceoJ0uSMguYwRAy2NKqLRthrUyd1EEC0h6beg18Gy8P8fPKKryuXXe9AbzEWQfA_1_XQ0KvNWA9MYz5bH2mbJj8memLyFgNU0vG6NoDpLTZowmiRxOioPTVFL_SfXU3aqY9x6EiLcw6Z4PRAhCcCEnA8QUfeM5Dkf-aBjDpSmXstufhmuhsZ7U0Bx_bszZu9xLizAimDAo6cGDGZBgM6dH3c6Xpz-ldZplmTaqGHw3G6T6o3bBk6n.js?_nc_x=nTgQDG58hx9, line 211: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i2FC4/yF/l/en_GB/nnqSDsSZH-ID_mweSMu_QvIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSM2b5MLVoKJLWfMHoc3M9ceoJ0uSMguYwRAy2NKqLRthrUyd1EEC0h6beg18Gy8P8fPKKryuXXe9AbzEWQfA_1_XQ0KvNWA9MYz5bH2mbJj8memLyFgNU0vG6NoDpLTZowmiRxOioPTVFL_SfXU3aqY9x6EiLcw6Z4PRAhCcCEnA8QUfeM5Dkf-aBjDpSmXstufhmuhsZ7U0Bx_bszZu9xLizAimDAo6cGDGZBgM6dH3c6Xpz-ldZplmTaqGHw3G6T6o3bBk6n.js?_nc_x=nTgQDG58hx9, line 209: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 30: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: Error in body stream
+1604773420960	Marionette	INFO	Stopped listening on port 55093
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604785643306	geckodriver	INFO	Listening on 127.0.0.1:59602
+1604785646360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofilerPW1e9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604785648531	Marionette	INFO	Listening on port 59610
+1604785649020	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604785942880	Marionette	INFO	Stopped listening on port 59610
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile8A7e7W"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604785853996	Marionette	INFO	Listening on port 59730
+1604785854498	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+1604785984278	geckodriver	INFO	Listening on 127.0.0.1:59797
+1604785987327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofileSjI7lL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604785989507	Marionette	INFO	Listening on port 59805
+1604785990001	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af32ae2800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af32ae2800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Ocf6xbTOlTrCRCZScERcsmaj4V9RgiBpPHCdyvvBYY4SIxlvJJqM2sw.js?_nc_x=nTgQDG58hx9, line 11: WebGL context was lost.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Ocf6xbTOlTrCRCZScERcsmaj4V9RgiBpPHCdyvvBYY4SIxlvJJqM2sw.js?_nc_x=nTgQDG58hx9, line 11: WebGL context was lost.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Ocf6xbTOlTrCRCZScERcsmaj4V9RgiBpPHCdyvvBYY4SIxlvJJqM2sw.js?_nc_x=nTgQDG58hx9, line 11: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/CRCZScERcsm.js?_nc_x=nTgQDG58hx9, line 5: WebGL context was lost.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 73: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af3ac5ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af3ace0400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af320ea000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SkipAccessPointPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSkipToNextRandomAccessPoint(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iKoy4/yy/l/en_GB/IjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMnMbjZYiOm2Uy2NKqLRthrUKryuXXe9AbzxMRT6wQA8lRqOLQb9EP_iWDpLTZowmiRxOioPTVFL_SfWog_fKqugKjLcw6Z4PRAhC5Dkf-aBjDpSu9xLizAimDAjmpKTWQNSLAZplmTaqGHw3cVsgShfBvyukH_HxIifPorFcw-Z1KigN_bCXWNkmnJy58LuJft2rbsUbyKXrRWdbI2jSZwSFj1-jiHfE5DkaI0DPQ7s4kQgiPtqaj4V9RgiBpPcLjAByDTwFy10cLfGVJocE8en-RVtzOba-jks2JEqscy.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iKoy4/yy/l/en_GB/IjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMnMbjZYiOm2Uy2NKqLRthrUKryuXXe9AbzxMRT6wQA8lRqOLQb9EP_iWDpLTZowmiRxOioPTVFL_SfWog_fKqugKjLcw6Z4PRAhC5Dkf-aBjDpSu9xLizAimDAjmpKTWQNSLAZplmTaqGHw3cVsgShfBvyukH_HxIifPorFcw-Z1KigN_bCXWNkmnJy58LuJft2rbsUbyKXrRWdbI2jSZwSFj1-jiHfE5DkaI0DPQ7s4kQgiPtqaj4V9RgiBpPcLjAByDTwFy10cLfGVJocE8en-RVtzOba-jks2JEqscy.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iKoy4/yy/l/en_GB/IjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMnMbjZYiOm2Uy2NKqLRthrUKryuXXe9AbzxMRT6wQA8lRqOLQb9EP_iWDpLTZowmiRxOioPTVFL_SfWog_fKqugKjLcw6Z4PRAhC5Dkf-aBjDpSu9xLizAimDAjmpKTWQNSLAZplmTaqGHw3cVsgShfBvyukH_HxIifPorFcw-Z1KigN_bCXWNkmnJy58LuJft2rbsUbyKXrRWdbI2jSZwSFj1-jiHfE5DkaI0DPQ7s4kQgiPtqaj4V9RgiBpPcLjAByDTwFy10cLfGVJocE8en-RVtzOba-jks2JEqscy.js?_nc_x=nTgQDG58hx9, line 73: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/CRCZScERcsm.js?_nc_x=nTgQDG58hx9, line 5: WebGL context was lost.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4Yg4/yl/l/en_GB/nnqSDsSZH-ID_mweSMu_QvIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMiZ6UKyclBEkfMHoc3M9ceoJ0uSMguYwRAy2NKqLRthrUyd1EEC0h6beg18Gy8P8fPKKryuXXe9AbzEWQfA_1_XQ0KvNWA9MYz5bH2mbJj8memLTQkzlxWKxbLyFgNU0vG6NoDpLTZowmiRxOioPTVFL_SfwFw09pWqxj10dogirrK6GK0ami3ff2FeP.js?_nc_x=nTgQDG58hx9, line 326: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af37453c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ijOZ4/yj/l/en_GB/nnqSDsSZH-IIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMnMbjZYiOm2U.js?_nc_x=nTgQDG58hx9, line 180: cancelled: operation is cancelled
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af0c7ce800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ijOZ4/yj/l/en_GB/nnqSDsSZH-IIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMnMbjZYiOm2U.js?_nc_x=nTgQDG58hx9, line 180: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ijOZ4/yj/l/en_GB/nnqSDsSZH-IIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMnMbjZYiOm2U.js?_nc_x=nTgQDG58hx9, line 180: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ijOZ4/yj/l/en_GB/nnqSDsSZH-IIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMnMbjZYiOm2U.js?_nc_x=nTgQDG58hx9, line 178: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3isH24/yW/l/en_GB/nnqSDsSZH-ID_mweSMu_QvIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMiZ6UKyclBEkfMHoc3M9ceoJ0uSMguYwRAy2NKqLRthrUyd1EEC0h6beg18Gy8P8fPKKryuXXe9AbzEWQfA_1_XQ0KvNWA9MYz5bH2mbJj8memLTQkzlxWKxbLyFgNU0vG6NoDpLTZowmiRxOioPTVFL_Sf0dogirrK6GKXU3aqY9x6EiLcw6Z4PRAhCcCEnA8QUfeM.js?_nc_x=nTgQDG58hx9, line 326: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af06d18c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af06d18c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/CRCZScERcsm.js?_nc_x=nTgQDG58hx9, line 5: WebGL context was lost.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/CRCZScERcsm.js?_nc_x=nTgQDG58hx9, line 5: WebGL context was lost.
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af07a1c800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af08cb2000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+[Child 9488, MediaDecoderStateMachine #1] WARNING: Decoder=2af0339b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SkipAccessPointPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSkipToNextRandomAccessPoint(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1604790447994	Marionette	INFO	Stopped listening on port 59805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilekAbDyB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604789598162	Marionette	INFO	Listening on port 60397
+1604789598420	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604790445420	Marionette	INFO	Stopped listening on port 60397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604790471541	geckodriver	INFO	Listening on 127.0.0.1:60576
+1604790474616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofilenWUFGB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604790500542	geckodriver	INFO	Listening on 127.0.0.1:60593
+1604790503614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jenya\\AppData\\Local\\Temp\\rust_mozprofileaS5UrB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604790505960	Marionette	INFO	Listening on port 60601
+1604790506291	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3idse4/y7/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYlZIknxHglEsEiS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrU.js?_nc_x=nTgQDG58hx9, line 291: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 20348, MediaDecoderStateMachine #1] WARNING: Decoder=28a18d9b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 20348, MediaDecoderStateMachine #1] WARNING: Decoder=28a08a8c800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 20348, MediaDecoderStateMachine #1] WARNING: Decoder=28a08a8c800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 73: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3idse4/y7/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYlZIknxHglEsEiS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrU.js?_nc_x=nTgQDG58hx9, line 291: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3idse4/y7/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYlZIknxHglEsEiS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrU.js?_nc_x=nTgQDG58hx9, line 291: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3idse4/y7/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYlZIknxHglEsEiS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrU.js?_nc_x=nTgQDG58hx9, line 291: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+[Child 20348, MediaDecoderStateMachine #1] WARNING: Decoder=28a08a8b800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 20348, MediaDecoderStateMachine #1] WARNING: Decoder=28a08a8b800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3idse4/y7/l/en_GB/V8GjcPJN6il6RzYCrctJjPJd2DgnUXYxudgvdzJ_cNYlZIknxHglEsEiS5ASO6TbhqOUkDYErQXSMlt2YAXqtOeNpt6Xi9tYeG6xWgBOTm-BN1raVzFvLt8UCZ6PN6kDhMJtMztxCSOaz3RR213QNDrvZUOQKGNElp58ZBO7AMyT1FRyVkWWxBIfuzDtL6kvYfo9gUNDg517ndiOay2NKqLRthrU.js?_nc_x=nTgQDG58hx9, line 291: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/CRCZScERcsm.js?_nc_x=nTgQDG58hx9, line 5: WebGL context was lost.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 75: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/IjFWvjsx8-m.js?_nc_x=nTgQDG58hx9, line 73: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2IU4/yH/l/en_GB/nnqSDsSZH-ID_mweSMu_QvIjFWvjsx8-miS5ASO6TbhqOUkDYErQXSMiZ6UKyclBEkfMHoc3M9ceoJ0uSMguYwRAy2NKqLRthrUyd1EEC0h6beg18Gy8P8fPKKryuXXe9AbzEWQfA_1_XQ0KvNWA9MYz5bH2mbJj8memLyFgNU0vG6NoDpLTZowmiRxOioPTVFL_SfXU3aqY9x6EiLcw6Z4PRAhCcCEnA8QUfeM5Dkf-aBjDpSmXstufhmuhsZ7U0Bx_bszZu9xLizAimDAo6cGDGZBgM6dH3c6Xpz-ldZplmTaqGHw3.js?_nc_x=nTgQDG58hx9, line 326: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3izHn4/yS/l/en_GB/B_wBwitZPZrjQ0fBVgP58D6o9ra__Oo3PCRCZScERcsmNUknGJC2D4eLt45SaStzlV10cLfGVJocE9WSxDG4JvTW8en-RVtzOba0yUy5moNFGh.js?_nc_x=nTgQDG58hx9, line 49: WebGL context was lost.
+1604801186164	Marionette	INFO	Stopped listening on port 60601
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
